@@ -93,13 +93,11 @@ The dataset was cleaned using Python and Pandas.
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot here.
 
-```text
-Images/dashboard.png
-```
 
----
+AI Usage Impact on Students Dashboard.png
+
+
 
 ## 📈 Skills Demonstrated
 
@@ -121,8 +119,8 @@ Images/dashboard.png
 
 Aspiring Data Analyst
 
-- GitHub: *(Add your GitHub profile)*
-- LinkedIn: *(Add your LinkedIn profile)*
+- GitHub: *(https://github.com/Jaiwina7)*
+- LinkedIn: *(https://www.linkedin.com/in/jaiwin-raj-k-578854291/)*
 
 ---
 
