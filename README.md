@@ -93,9 +93,7 @@ The dataset was cleaned using Python and Pandas.
 
 ## 📸 Dashboard Preview
 
-
-
-AI Usage Impact on Students Dashboard.png
+![Dashboard](AI Usage Impact on Students Dashboard.png)
 
 
 
